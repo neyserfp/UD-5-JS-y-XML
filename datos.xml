@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<peliculas>
+
+    <pelicula>
+        <titulo>El secreto de las abejas</titulo>
+        <direccion>Annabel Jankel</direccion>
+        <duracion>105 min</duracion>
+        <nacionalidad>Reino Unido</nacionalidad>
+        <artistas>Anna Paquin, Emun Elliott, Gregor Selkirk, Holliday Grainger, Lauren Lyle, Steven Robertson</artistas>
+        <genero>Romance - Drama</genero>
+        <cartel>el-secreto.jpg</cartel>
+        <sinopsis>Escocia, en los años 50. La Dra. Jean Markham (Anna Paquin) regresa a la pequeña ciudad que abandonó cuando era adolescente para hacerse cargo de la consulta médica de su difunto padre. Cuando el pequeño Charlie (Gregor Selkirk) tiene una pelea en el patio del colegio y va a su consulta, ella le invita a visitar las colmenas de su jardín y le anima a contarle sus secretos a las abejas, como hacía ella de niña. La nueva amistad entre el niño y la doctora lleva a su madre Lydia (Holliday Grainger) al mundo de Jean. Inesperadamente las dos mujeres se sienten atraídas de una manera que nunca hubieran imaginado. Pero este secreto entre ambas no puede permanecer oculto para siempre.</sinopsis>
+<video>RLcoyaokjOg</video>
+    </pelicula>
+     <pelicula>
+        <titulo>El vendedor de tabaco</titulo>
+        <direccion>Nikolaus Leytner</direccion>
+        <duracion>119 min</duracion>
+        <nacionalidad>Austria - Alemania</nacionalidad>
+        <artistas>Bruno Ganz, Emma Drogunova, Johannes Krisch, Karoline Eichhorn, Regina Fritsch, Simon Morzé</artistas>
+        <genero>Drama</genero>
+        <cartel>el-vendedor.jpg</cartel>
+        <sinopsis>Basada en el bestseller internacional de Robert Seethaler, ´El Vendedor de Tabaco´ es una curiosa y emotiva historia de amistad entre un joven que llega a Viena durante la ocupación Nazi para trabajar en un estanco y uno de sus clientes más especiales, Sigmund Freud.</sinopsis>
+<video>eoH-w0rysc0</video>
+    </pelicula>
+  
+
+   <pelicula>
+        <titulo>La espía roja</titulo>
+        <direccion>Trevor Nunn</direccion>
+        <duracion>100 min</duracion>
+        <nacionalidad>Inglaterra</nacionalidad>
+        <artistas>Judi Dench, Kevin Fuller, Laurence Spellman, Sophie Cookson, Tereza Srbová, Tom Hughes</artistas>
+        <genero>Suspense - Drama</genero>
+        <cartel>la-espia.jpg</cartel>
+        <sinopsis>Joan Stanley (Judi Dench) es una encantadora anciana que jamás ha levantado ningún tipo de sospecha… hasta que una mañana agentes del MI5 llaman a su puerta para llevársela detenida. Ha salido a la luz uno de los mayores casos de espionaje del KGB y Joan es una de las sospechosas. Durante el interrogatorio Joan vuelve a los años 30, cuando estudiaba Física en Cambridge y se enamoró de un joven comunista, Leo Galich (Tom Hughes), el mismo que tiempo después, durante la II Guerra Mundial, le puso ante una difícil encrucijada: elegir entre traicionar a su país o salvar al mundo de una catástrofe nuclear.</sinopsis>
+        <video>icxPeM19V8s</video>
+
+    </pelicula>
+
+     <pelicula>
+        <titulo>La biblioteca de los libros rechazados</titulo>
+        <direccion>Rémi Bezançon</direccion>
+        <duracion>100 min</duracion>
+        <nacionalidad>Francia</nacionalidad>
+        <artistas>Alice Isaaz, Bastien Bouillon, Camille Cottin, Fabrice Luchini, Louis Descols, Philypa Phoenix</artistas>
+        <genero>Drama</genero>titilo
+        <cartel>la-biblioteca.jpg</cartel>
+        <sinopsis>Un curioso bibliotecario decide albergar todos los libros que han sido rechazados por las editoriales. Un día, una joven escritora descubrirá esta biblioteca que esconde grandes tesoros, uno de ellos será la novela Las últimas horas de una historia de amor, escrita por Henri Pick. El desconocido escritor, fallecido dos años antes, era un cocinero que jamás leyó un libro y no escribió otra cosa que la lista de la compra, según su mujer.</sinopsis>
+<video>EHJZjygmyug</video>
+    </pelicula>
+
+     <pelicula>
+        <titulo>Los Japón</titulo>
+        <direccion>Álvaro Díaz Lorenzo</direccion>
+        <duracion>96 min</duracion>
+        <nacionalidad>España</nacionalidad>
+        <artistas>Antonio Dechent, Cinta Ramírez, Dani Rovira, Iker Castiñeira, María León, Maya Murofushi</artistas>
+        <genero>Comedia</genero>
+        <cartel>los-japon.jpg</cartel>
+        <sinopsis>En 1614 una expedición japonesa encabezada por el nieto del emperador desembarcó en el pueblo sevillano de Coria del Río, y el heredero al trono se enamoró de una bella sevillana, formó una familia y nunca regresó a Japón. 400 años después, el Emperador Satohito muere y el heredero legítimo resulta ser Paco Japón, vecino de 37 años de Coria del Río. La vida de Paco y de su familia cambiará drásticamente al verse de la noche a la mañana viviendo en el Palacio Imperial y preparándose para ser los nuevos Emperadores de Japón. El choque cultural y lingüístico entre japoneses y andaluces provocará situaciones cómicas y disparatadas en esta aventura donde Oriente y Occidente se dan la mano.</sinopsis>
+<video>dkOvnP76mj0</video>
+    </pelicula>
+
+
+</peliculas>
