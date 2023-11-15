@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <peliculas>
-
     <pelicula>
         <titulo>El secreto de las abejas</titulo>
         <direccion>Annabel Jankel</direccion>
@@ -11,7 +10,7 @@
         <genero>Romance - Drama</genero>
         <cartel>el-secreto.jpg</cartel>
         <sinopsis>Escocia, en los años 50. La Dra. Jean Markham (Anna Paquin) regresa a la pequeña ciudad que abandonó cuando era adolescente para hacerse cargo de la consulta médica de su difunto padre. Cuando el pequeño Charlie (Gregor Selkirk) tiene una pelea en el patio del colegio y va a su consulta, ella le invita a visitar las colmenas de su jardín y le anima a contarle sus secretos a las abejas, como hacía ella de niña. La nueva amistad entre el niño y la doctora lleva a su madre Lydia (Holliday Grainger) al mundo de Jean. Inesperadamente las dos mujeres se sienten atraídas de una manera que nunca hubieran imaginado. Pero este secreto entre ambas no puede permanecer oculto para siempre.</sinopsis>
-<video>RLcoyaokjOg</video>
+        <video>RLcoyaokjOg</video>
     </pelicula>
      <pelicula>
         <titulo>El vendedor de tabaco</titulo>
